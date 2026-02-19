@@ -1,0 +1,8 @@
+{
+  "name": "ParkinVibe AI",
+  "description": "Uma plataforma inteligente de apoio a doentes de Parkinson, oferecendo monitorização de sintomas, exercícios gerados por IA, alertas de medicação e suporte motivacional personalizado.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
